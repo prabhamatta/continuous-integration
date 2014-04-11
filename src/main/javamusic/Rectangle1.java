@@ -1,8 +1,6 @@
 package javamusic;
 
-/**
- * Created by Ignacio on 2/7/14.
- */
+
 public class Rectangle1 {
 
     public final double width;

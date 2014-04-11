@@ -1,6 +1,6 @@
 package javamusic;
 
-import org.junit.Test;
+import org.junit.*;
 
 import static junit.framework.Assert.assertEquals;
 
